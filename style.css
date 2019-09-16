@@ -1,0 +1,34 @@
+/*type selector*/
+body{
+
+  background-color: #ffffff;
+  margin:0pt;
+}
+
+/*type selector*/
+h1{
+  color: #0c36b6;
+  font-size: 40pt;
+  font-family: sans-serif;
+}
+
+h2{
+  color: #FFA500;
+  text-align: left;
+}
+/*class selector*/
+.header{
+  text-align:center;
+}
+
+.me{
+  text-align: right;
+  font-size: 12pt;
+
+}
+/*id selector*/
+.college{
+  font-size: 14pt;
+  font-style: italic;
+  font-family: monospace;
+}
